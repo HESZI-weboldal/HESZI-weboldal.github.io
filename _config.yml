@@ -21,9 +21,9 @@ author: Heszi Autósiskola
 
 navbar-links: 
   Jármű kategóriák: "https://deanattali.com"
-  Áraink: "https://deanattali.com"
+  Áraink: "/araink/"
   Galéria: "https://deanattali.com"
-  Statisztika: "https://deanattali.com"
+  Statisztika: "/statisztika/"
   Kapcsolat: "https://deanattali.com"
 
 # --- Logo --- #
