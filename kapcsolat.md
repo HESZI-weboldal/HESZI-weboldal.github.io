@@ -1,6 +1,10 @@
 ---
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
+title: Kapcsolat
+subtitle: 
 ---
 
-#test
+Iskolavezető, oktató: Szinkulics Krisztina
+06 30 315 9608
+
+Elméleti, gyakorlati oktató: Hesz István
+06 20 372 3337

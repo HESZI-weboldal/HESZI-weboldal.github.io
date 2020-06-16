@@ -82,8 +82,8 @@
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@daattali">
-  <meta name="twitter:creator" content="@daattali">
+  <meta name="twitter:site" content="@false">
+  <meta name="twitter:creator" content="@false">
 
   
   <meta name="twitter:title" content="Heszi Autósiskola">
@@ -114,19 +114,19 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="https://deanattali.com">Jármű kategóriák</a>
+            <a class="nav-link" href="">Jármű kategóriák</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/araink/">Áraink</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://deanattali.com">Galéria</a>
+            <a class="nav-link" href="">Galéria</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/statisztika/">Statisztika</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://deanattali.com">Kapcsolat</a>
+            <a class="nav-link" href="/kapcsolat/">Kapcsolat</a>
           </li></ul>
   </div>
 
@@ -208,44 +208,12 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
       <ul class="list-inline text-center footer-links"><li class="list-inline-item">
-    <a href="/feed.xml" title="RSS">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">RSS</span>
-    </a>
-  </li><li class="list-inline-item">
     <a href="mailto:info@heszi.hu" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Email me</span>
-   </a>
-  </li><li class="list-inline-item">
-    <a href="https://www.facebook.com/deanattali" title="Facebook">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Facebook</span>
-   </a>
-  </li><li class="list-inline-item">
-    <a href="https://github.com/daattali" title="GitHub">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">GitHub</span>
-   </a>
-  </li><li class="list-inline-item">
-    <a href="https://twitter.com/daattali" title="Twitter">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Twitter</span>
    </a>
   </li></ul>
 

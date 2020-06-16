@@ -12,4 +12,8 @@
 <url>
 <loc>http://localhost:4000/statisztika/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/araink.html</loc>
+<lastmod>2020-06-16T10:02:03+00:00</lastmod>
+</url>
 </urlset>

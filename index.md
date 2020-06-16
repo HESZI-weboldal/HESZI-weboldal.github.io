@@ -1,6 +1,6 @@
 ---
 title: Heszi Autóssikola
-subtitle: Here you'll find all the ways to get in touch with me
+subtitle: 
 ---
 
-#test
+A weboldal feltöltés alatt áll!

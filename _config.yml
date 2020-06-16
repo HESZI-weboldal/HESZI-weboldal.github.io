@@ -20,11 +20,11 @@ author: Heszi Autósiskola
 # --- List of links in the navigation bar --- #
 
 navbar-links: 
-  Jármű kategóriák: "https://deanattali.com"
+  Jármű kategóriák: ""
   Áraink: "/araink/"
-  Galéria: "https://deanattali.com"
+  Galéria: ""
   Statisztika: "/statisztika/"
-  Kapcsolat: "https://deanattali.com"
+  Kapcsolat: "/kapcsolat/"
 
 # --- Logo --- #
 
@@ -47,10 +47,10 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "info@heszi.hu"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  facebook: false
+  github: false
+  twitter: false
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
