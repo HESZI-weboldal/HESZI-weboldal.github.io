@@ -1,5 +1,5 @@
 ---
-title: Heszi Autóssikola
+title: Heszi Autósiskola
 subtitle: 
 ---
 

@@ -1,0 +1,40 @@
+I")<p>A Táblázatok feltöltés alatt!</p>
+
+<p>#Átlagos képzési óraszám</p>
+
+<p>2020</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Kategória</th>
+      <th>I. negyedév</th>
+      <th>II. negyedév</th>
+      <th>III. negyedév</th>
+      <th>IV. negyedév</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>B- elmélet</td>
+      <td>-*</td>
+      <td>-*</td>
+      <td>-*</td>
+      <td>-*</td>
+    </tr>
+    <tr>
+      <td>B - gyakorlat</td>
+      <td>-*</td>
+      <td>-*</td>
+      <td>-*</td>
+      <td>-*</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*Nem mérhető az adat mert a mintaelemszám túl alacsony vagy még nincs rendelkezésre álló adat.</p>
+
+<p>#Vizsga sikerességi mutató</p>
+
+<p>Nem mérhető az adat mert a mintaelemszám túl alacsony vagy még nincs rendelkezésre álló adat.</p>
+:ET
