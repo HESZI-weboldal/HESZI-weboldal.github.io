@@ -10,3 +10,8 @@ Iskolavezető, oktató: Szinkulics Krisztina
 
 Elméleti, gyakorlati oktató: Hesz István
 06 20 372 3337
+
+Ügyfélfogadói irodánk: 11214 Budapest Nap utca 4.
+Ügyfélfogadás ideje: Hétfő: 16:00-20:00
+
+####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])

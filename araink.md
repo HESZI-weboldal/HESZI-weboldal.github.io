@@ -1,8 +1,8 @@
 ---
-title: Autóssikola díjtáblázat
+title: Autósiskola Díjtáblázat
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
-description: Elérhetőségeink
+description: A HESZI autósiskola elérhetőségei
 ---
  
 
@@ -15,4 +15,8 @@ description: Elérhetőségeink
 | BE        | 40 000 Ft               | 102 000 Ft / 17 óra        |13 800 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 110 00 Ft| 174 700 Ft|
 | C        | 40 000 Ft               | 210 000 Ft / 30 óra        |13 800 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 00 Ft| 282 700 Ft|
 | CE        | 35 000 Ft               | 120 000 Ft / 15 óra        |9 200 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 000 Ft| 183 100 Ft|
+
+Az árak tartalmazzák az általános forgalmi adót (ÁFA)!
+
+####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
  

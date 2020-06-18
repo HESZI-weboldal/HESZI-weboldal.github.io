@@ -50,3 +50,6 @@ description: Elérhetőségeink
 | CE - forgalom | -*     | -*           |-*             |-*            |
 
 *Nem mérhető az adat mert a mintaelemszám túl alacsony vagy még nincs rendelkezésre álló adat.
+
+
+####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
