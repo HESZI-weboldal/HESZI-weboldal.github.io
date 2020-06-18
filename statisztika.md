@@ -15,8 +15,8 @@ subtitle:
 | B - forgalom | -*     | -*           |-*             |-*            |
 | A1- elmélet | -*        | -*           |-*             |-*            |
 | A1 - forgalom | -*     | -*           |-*             |-*            |
-| A2- elmélet | -*        | -*           |-*             |-*            |
-| A2 - forgalom | -*     | -*           |-*             |-*            |
+| A1B- elmélet | -*        | -*           |-*             |-*            |
+| A1B - forgalom | -*     | -*           |-*             |-*            |
 | A- elmélet | -*        | -*           |-*             |-*            |
 | A - forgalom | -*     | -*           |-*             |-*            |
 | C - elmélet | -*        | -*           |-*             |-*            |
@@ -38,8 +38,8 @@ subtitle:
 | B - forgalom | -*     | -*           |-*             |-*            |
 | A1- elmélet | -*        | -*           |-*             |-*            |
 | A1 - forgalom | -*     | -*           |-*             |-*            |
-| A2- elmélet | -*        | -*           |-*             |-*            |
-| A2 - forgalom | -*     | -*           |-*             |-*            |
+| A1B2- elmélet | -*        | -*           |-*             |-*            |
+| A1B - forgalom | -*     | -*           |-*             |-*            |
 | A- elmélet | -*        | -*           |-*             |-*            |
 | A - forgalom | -*     | -*           |-*             |-*            |
 | C - elmélet | -*        | -*           |-*             |-*            |
