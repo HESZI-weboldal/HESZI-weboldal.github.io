@@ -16,10 +16,10 @@ description: A HESZI autósiskola elérhetőségei
 | „A1B”        |  [Megtekint][3]| 
 | „Am”        | [Megtekint][4]               | 
 | „A2”        | [Megtekint][5]               | 
-| „A” KATEGÓRIA 2 éven belüli „A1” KATEGÓRIÁVAL        | [Megtekint][6]               | 
-| „A” KATEGÓRIA 2 éven belüli „A2” KATEGÓRIÁVAL        | [Megtekint][7]               | 
-| „A” KATEGÓRIA 2 éven túli „A korl”vagy „A1” KATEGÓRIÁVAL        | [Megtekint][8]               |
-| „A” KATEGÓRIA 2 éven túli „A korl”vagy „A2” KATEGÓRIÁVAL        | [Megtekint][9]               |  
+| „A” kategória 2 éven belüli „A1” kategóriával        | [Megtekint][6]               | 
+| „A” kategória 2 éven belüli „A2” kategóriával        | [Megtekint][7]               | 
+| „A” kategória 2 éven túli „A korl” vagy „A1” kategóriával        | [Megtekint][8]               |
+| „A” kategória 2 éven túli „A korl” vagy „A2” kategóriával        | [Megtekint][9]               |  
 
 [1]:{{ site.url }}/download/A.pdf
 [2]:{{ site.url }}/download/A1.pdf

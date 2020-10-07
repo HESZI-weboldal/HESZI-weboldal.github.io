@@ -5,14 +5,16 @@ language: hu
 description: sadadsads
 ---
 
-Autósiskolánk járművezető-képzést folytat a következő kategóriákban:
+### Képzési kategóriáink
+
 - motorkerékpár (A1, A1B, A)
 - személygépkocsi (B)
 - személygépkocsi nehézpóttal (BE)
 - tehergépjármű (C)
 - tehergépjármű nehézpóttal (CE)
 
-Képzési területeink:
+### Képzési területeink
+
 - Törökbálint
 - Budaörs
 - Csepel
@@ -23,11 +25,13 @@ Képzési területeink:
 
 Egyéb képzési helyek megbeszélés szerint.
 
-Iskolánkban az elméleti képzést interneten keresztül is elvégezheti (e-learning), ahol az idejével mindenki saját maga rendelkezik. 
+Iskolánkban az elméleti képzést **interneten keresztül is elvégezheti (e-learning)**, ahol az idejével mindenki saját maga rendelkezik. 
 
-Ügyfélfogadói irodánk: 1214 Budapest Nap utca 4.
+### Ügyfélfogadói irodánk
 
-Ügyfélfogadás ideje:
+1214 Budapest Nap utca 4.
+
+### Ügyfélfogadás ideje
 
 Hétfő: 16:00-20:00
 
@@ -35,8 +39,10 @@ Csütörtök: 16:00-20:00
 
 Tanfolyamra jelentkezés: telefonon, személyesen az ügyfélfogadói irodában és emailben. 
 
-Elérhetőségeink:
+### Elérhetőségeink
+
 Szinkulics Krisztina +36 30 315 9608
+
 Hesz István +36 20 372 3337
 
 ---

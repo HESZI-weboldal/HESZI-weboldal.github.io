@@ -5,15 +5,23 @@ language: hu
 description: Elérhetőségeink
 ---
 
-Iskolavezető, oktató: Szinkulics Krisztina
+### Iskolavezető, oktató
+
+Szinkulics Krisztina
+
 06 30 315 9608
 
-Elméleti, gyakorlati oktató: Hesz István
+### Elméleti, gyakorlati oktató
+
+Hesz István
+
 06 20 372 3337
 
-Ügyfélfogadói irodánk: 11214 Budapest Nap utca 4.
+### Ügyfélfogadói irodánk
 
-Ügyfélfogadás ideje:
+11214 Budapest Nap utca 4.
+
+### Ügyfélfogadás ideje
 
 Hétfő: 16:00-20:00
 
