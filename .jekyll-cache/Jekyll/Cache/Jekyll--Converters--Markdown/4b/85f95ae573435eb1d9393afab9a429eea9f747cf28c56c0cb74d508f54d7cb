@@ -1,4 +1,8 @@
-I"�<table>
+I"�	<h2 id="a-kategóriák">A kategóriák</h2>
+
+<hr />
+
+<table>
   <thead>
     <tr>
       <th>Kategória</th>
@@ -7,23 +11,23 @@
   </thead>
   <tbody>
     <tr>
-      <td>A</td>
+      <td>„A”</td>
       <td><a href="/download/A.pdf">Megtekint</a></td>
     </tr>
     <tr>
-      <td>A1</td>
+      <td>„A1”</td>
       <td><a href="/download/A1.pdf">Megtekint</a></td>
     </tr>
     <tr>
-      <td>A1B</td>
+      <td>„A1B”</td>
       <td><a href="/download/A1B.pdf">Megtekint</a></td>
     </tr>
     <tr>
-      <td>Am</td>
+      <td>„Am”</td>
       <td><a href="/download/Am.pdf">Megtekint</a></td>
     </tr>
     <tr>
-      <td>A2</td>
+      <td>„A2”</td>
       <td><a href="/download/A2.pdf">Megtekint</a></td>
     </tr>
     <tr>
@@ -44,6 +48,62 @@
     </tr>
   </tbody>
 </table>
+
+<p><br /></p>
+
+<h2 id="b-kategóriák">B kategóriák</h2>
+
+<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th>Kategória</th>
+      <th>Vállalási feltételek</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>„B”</td>
+      <td><a href="/download/B.pdf">Megtekint</a></td>
+    </tr>
+    <tr>
+      <td>„B” átvett tanuló</td>
+      <td><a href="/download/B_atvett.pdf">Megtekint</a></td>
+    </tr>
+    <tr>
+      <td>„BE”</td>
+      <td><a href="/download/BE.pdf">Megtekint</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="c-kategóriák">C kategóriák</h2>
+
+<hr />
+
+<table>
+  <thead>
+    <tr>
+      <th>Kategória</th>
+      <th>Vállalási feltételek</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>„C”</td>
+      <td><a href="/download/C.pdf">Megtekint</a></td>
+    </tr>
+    <tr>
+      <td>„CE”</td>
+      <td><a href="/download/CE.pdf">Megtekint</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
 
 <h4 id="kérdés-esetén-írhat-is-nekünk-infoheszihu">Kérdés esetén írhat is nekünk: <a href="mailto:info@heszi.hu?subject=[Jogosítvány]">info@heszi.hu</a></h4>
 

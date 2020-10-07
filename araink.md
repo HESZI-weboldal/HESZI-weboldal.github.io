@@ -16,5 +16,7 @@ description: A HESZI autósiskola elérhetőségei
 | C        | 40 000 Ft               | 210 000 Ft / 30 óra        |13 800 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 00 Ft| 282 700 Ft|
 | CE        | 35 000 Ft               | 120 000 Ft / 15 óra        |9 200 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 000 Ft| 183 100 Ft|
 
+---
+
 ####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
  
