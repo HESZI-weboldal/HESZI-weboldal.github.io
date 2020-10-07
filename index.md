@@ -25,9 +25,13 @@ Egyéb képzési helyek megbeszélés szerint.
 
 Iskolánkban az elméleti képzést interneten keresztül is elvégezheti (e-learning), ahol az idejével mindenki saját maga rendelkezik. 
 
-Ügyfélfogadói irodánk: 11214 Budapest Nap utca 4.
-Ügyfélfogadás ideje: Hétfő: 16:00-20:00
+Ügyfélfogadói irodánk: 1214 Budapest Nap utca 4.
 
+Ügyfélfogadás ideje:
+
+Hétfő: 16:00-20:00
+
+Csütörtök: 16:00-20:00
 
 Tanfolyamra jelentkezés: telefonon, személyesen az ügyfélfogadói irodában és emailben. 
 

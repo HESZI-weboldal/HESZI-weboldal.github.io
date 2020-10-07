@@ -20,7 +20,7 @@ author: Heszi Autósiskola
 # --- List of links in the navigation bar --- #
 
 navbar-links: 
-  Jármű kategóriák: ""
+  Jármű kategóriák: "/jarmukategoriak/"
   Áraink: "/araink/"
   Galéria: ""
   Statisztika: "/statisztika/"

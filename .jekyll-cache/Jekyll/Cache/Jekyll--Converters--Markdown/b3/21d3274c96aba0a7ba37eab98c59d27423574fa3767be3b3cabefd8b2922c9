@@ -1,0 +1,44 @@
+I"m<table>
+  <thead>
+    <tr>
+      <th>Kategória</th>
+      <th>Vállalási feltételek</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A1</td>
+      <td><a href="/download/A.pdf">Megtekint</a></td>
+    </tr>
+    <tr>
+      <td>A1B</td>
+      <td><a href="/download/A1.pdf">Megtekint</a></td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>35 000 Ft</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>35 000 Ft</td>
+    </tr>
+    <tr>
+      <td>BE</td>
+      <td>40 000 Ft</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>40 000 Ft</td>
+    </tr>
+    <tr>
+      <td>CE</td>
+      <td>35 000 Ft</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Az árak tartalmazzák az általános forgalmi adót (ÁFA)!</p>
+
+<h4 id="kérdés-esetén-írhat-is-nekünk-infoheszihu">Kérdés esetén írhat is nekünk: <a href="mailto:info@heszi.hu?subject=[Jogosítvány]">info@heszi.hu</a></h4>
+
+:ET
