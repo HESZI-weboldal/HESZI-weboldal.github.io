@@ -17,7 +17,7 @@ description: Elérhetőségeink
 | A1B - forgalom | -*     | -*           |-*             |-*            |
 | A- elmélet | -*        | -*           |-*             |-*            |
 | A - forgalom | -*     | -*           |-*             |-*            |
-| B- elmélet | -*        | -*           |66,67%            |-*            |
+| B- elmélet | -*        | -*           |-*          |-*            |
 | B - forgalom | -*     | -*           |-*             |-*            |
 | BE - elmélet | -*        | -*           |-*             |-*            |
 | BE - forgalom | -*     | -*           |-*             |-*            |
@@ -40,7 +40,7 @@ description: Elérhetőségeink
 | A1B - forgalom | -*     | -*           |-*             |-*            |
 | A- elmélet | -*        | -*           |-*             |-*            |
 | A - forgalom | -*     | -*           |-*             |-*            |
-| B- elmélet | -*        | -*           |-*             |-*            |
+| B- elmélet | -*        | -*           |66,67%            |-*            |
 | B - forgalom | -*     | -*           |73,08%             |-*            |
 | BE - elmélet | -*        | -*           |-*             |-*            |
 | BE - forgalom | -*     | -*           |-*             |-*            |
