@@ -2,7 +2,7 @@
 title: HESZI Autósiskola
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
-description: Évtizedes tapasztalat a kezdők oktatásában
+description: Évtizedes tapasztalat kezdő sofőrök képzésében
 ---
 
 ### Képzési kategóriáink

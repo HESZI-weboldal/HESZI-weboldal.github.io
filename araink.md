@@ -1,8 +1,8 @@
 ---
-title: Autósiskola Díjtáblázat
+title: Díjtáblázat
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
-description: A HESZI autósiskola elérhetőségei
+description: Áraink kategóriák szerinti bontásban
 ---
  
 
