@@ -1,4 +1,5 @@
-I"�	<h2 id="a-kategóriák">A kategóriák</h2>
+I"�
+<h2 id="a-kategóriák">A kategóriák</h2>
 
 <hr />
 
@@ -12,39 +13,39 @@
   <tbody>
     <tr>
       <td>„A”</td>
-      <td><a href="/download/A.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/A.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A1”</td>
-      <td><a href="/download/A1.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/A1.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A1B”</td>
-      <td><a href="/download/A1B.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/A1B.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„Am”</td>
-      <td><a href="/download/Am.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/Am.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A2”</td>
-      <td><a href="/download/A2.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/A2.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A” kategória 2 éven belüli „A1” kategóriával</td>
-      <td><a href="/download/AVA1.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/AVA1.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A” kategória 2 éven belüli „A korl” vagy „A2” kategóriával</td>
-      <td><a href="/download/AVA2.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/AVA2.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A” kategória 2 éven túli „A1” kategóriával</td>
-      <td><a href="/download/AVTA1.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/AVTA1.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„A” kategória 2 éven túli „A korl” vagy „A2” kategóriával</td>
-      <td><a href="/download/AVTA2.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/AVTA2.pdf">Megtekint</a></td>
     </tr>
   </tbody>
 </table>
@@ -65,15 +66,15 @@
   <tbody>
     <tr>
       <td>„B”</td>
-      <td><a href="/download/B.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/B.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„B” átvett tanuló</td>
-      <td><a href="/download/B_atvett.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/B_atvett.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„BE”</td>
-      <td><a href="/download/BE.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/BE.pdf">Megtekint</a></td>
     </tr>
   </tbody>
 </table>
@@ -94,11 +95,11 @@
   <tbody>
     <tr>
       <td>„C”</td>
-      <td><a href="/download/C.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/C.pdf">Megtekint</a></td>
     </tr>
     <tr>
       <td>„CE”</td>
-      <td><a href="/download/CE.pdf">Megtekint</a></td>
+      <td><a href="http://localhost:4000/download/CE.pdf">Megtekint</a></td>
     </tr>
   </tbody>
 </table>

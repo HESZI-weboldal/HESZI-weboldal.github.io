@@ -1,8 +1,8 @@
 ---
-title: Jármű kategóriák
+title: Jármű kategóriák | HESZI
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
-description: A HESZI autósiskola elérhetőségei
+description: Oktatott jármű kategóriáink
 ---
  
 ## A kategóriák
