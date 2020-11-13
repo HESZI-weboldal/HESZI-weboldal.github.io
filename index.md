@@ -3,6 +3,7 @@ title: HESZI Autósiskola
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
 description: Évtizedes tapasztalat kezdő sofőrök képzésében
+published: true
 ---
 
 ### Képzési kategóriáink
@@ -32,6 +33,8 @@ Iskolánkban az elméleti képzést **interneten keresztül is elvégezheti (e-l
 1214 Budapest Nap utca 4.
 
 ### Ügyfélfogadás ideje
+
+####A járványhelyzetre és a kijárási korlátozásra való tekintettel az ügyfélfogadás hétfőn és csütörtökön 15 órától 19 óráig tart!
 
 Hétfő: 16:00-20:00
 
