@@ -34,6 +34,7 @@ Iskolánkban az elméleti képzést **interneten keresztül is elvégezheti (e-l
 
 ### Ügyfélfogadás ideje
 
+
 #### A járványhelyzetre és a kijárási korlátozásra való tekintettel az ügyfélfogadás hétfőn és csütörtökön 15 órától 19 óráig tart!
 
 Hétfő: 16:00-20:00
