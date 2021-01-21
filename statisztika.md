@@ -39,7 +39,7 @@ published: true
 | A1 - forgalom | -*     | -*           |-*             |-*            |
 | A1B - elmélet | -*        | -*           |-*             |-*            |
 | A1B - forgalom | -*     | -*           |-*             |-*            |
-| A- elmélet | -*        | -*           |-*             |-83,33%           |
+| A- elmélet | -*        | -*           |-*             |83,33%           |
 | A - forgalom | -*     | -*           |-*             |-*            |
 | B- elmélet | -*        | -*           |66,67%            |82,35%            |
 | B - forgalom | -*     | -*           |73,08%             |69,23%            |
