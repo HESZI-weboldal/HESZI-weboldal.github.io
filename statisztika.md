@@ -3,6 +3,7 @@ title: Statisztikák
 subtitle: +36 30 315 9608 <br> +36 20 372 3337
 language: hu
 description: Képzéis óraszám és vizsgasikerességi mutatóink
+published: true
 ---
 
 # Átlagos képzési óraszám
@@ -15,7 +16,7 @@ description: Képzéis óraszám és vizsgasikerességi mutatóink
 | A1 - forgalom | -*     | -*           |-*             |-*            |
 | A1B - elmélet | -*        | -*           |-*             |-*            |
 | A1B - forgalom | -*     | -*           |-*             |-*            |
-| A- elmélet | -*        | -*           |-*             |-*            |
+| A- elmélet | -*        | -*           |-*             |.|
 | A - forgalom | -*     | -*           |-*             |-*            |
 | B- elmélet | -*        | -*           |-*          |-*            |
 | B - forgalom | -*     | -*           |-*             |-*            |
@@ -38,10 +39,10 @@ description: Képzéis óraszám és vizsgasikerességi mutatóink
 | A1 - forgalom | -*     | -*           |-*             |-*            |
 | A1B - elmélet | -*        | -*           |-*             |-*            |
 | A1B - forgalom | -*     | -*           |-*             |-*            |
-| A- elmélet | -*        | -*           |-*             |-*            |
+| A- elmélet | -*        | -*           |-*             |-83,33%           |
 | A - forgalom | -*     | -*           |-*             |-*            |
-| B- elmélet | -*        | -*           |66,67%            |-*            |
-| B - forgalom | -*     | -*           |73,08%             |-*            |
+| B- elmélet | -*        | -*           |66,67%            |82,35%            |
+| B - forgalom | -*     | -*           |73,08%             |69,23%            |
 | BE - elmélet | -*        | -*           |-*             |-*            |
 | BE - forgalom | -*     | -*           |-*             |-*            |
 | C - elmélet | -*        | -*           |-*             |-*            |
