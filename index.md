@@ -8,12 +8,12 @@ published: true
 
 ### Képzési kategóriáink
 
-- motorkerékpár (A1, A1B, A)
+- motorkerékpár ( AM,A1, A1B, A, A2,)
 - személygépkocsi (B)
 - személygépkocsi nehézpóttal (BE)
 - tehergépjármű (C)
 - tehergépjármű nehézpóttal (CE)
-
+-
 ### Képzési területeink
 
 - Törökbálint
