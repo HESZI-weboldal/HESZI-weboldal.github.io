@@ -1,0 +1,67 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Kategória</th>
+      <th>Elméleti tanfolyam díja</th>
+      <th>Gyakorlati tanfolyam díja</th>
+      <th>Vizsgadíjak</th>
+      <th>Összesen</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A1</td>
+      <td>35 000 Ft</td>
+      <td>68 000 Ft / 17 óra</td>
+      <td>4 600 Ft <br /> 4700 Ft <br /> 11 000 Ft</td>
+      <td>123 300 Ft</td>
+    </tr>
+    <tr>
+      <td>A1B</td>
+      <td>20 000 Ft</td>
+      <td>12 000 Ft / 3 óra</td>
+      <td>4 600 Ft <br /> 11 000 Ft</td>
+      <td>47 600 Ft</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>35 000 Ft</td>
+      <td>121 500 Ft / 27 óra</td>
+      <td>4 600 Ft <br /> 4 700 Ft <br /> 11 000 Ft</td>
+      <td>176 800 Ft</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>40 000 Ft</td>
+      <td>180 000 Ft / 30 óra</td>
+      <td>4 600 Ft <br /> 11 000 Ft</td>
+      <td>235 600 Ft</td>
+    </tr>
+    <tr>
+      <td>BE</td>
+      <td>40 000 Ft</td>
+      <td>102 000 Ft / 17 óra</td>
+      <td>13 800 Ft <br /> 4 400 Ft <br /> 3 500 Ft <br /> 110 00 Ft</td>
+      <td>174 700 Ft</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>40 000 Ft</td>
+      <td>210 000 Ft / 30 óra</td>
+      <td>13 800 Ft <br /> 4 400 Ft <br /> 3 500 Ft <br /> 11 00 Ft</td>
+      <td>282 700 Ft</td>
+    </tr>
+    <tr>
+      <td>CE</td>
+      <td>35 000 Ft</td>
+      <td>120 000 Ft / 15 óra</td>
+      <td>9 200 Ft <br /> 4 400 Ft <br /> 3 500 Ft <br /> 11 000 Ft</td>
+      <td>183 100 Ft</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h4 id="kérdés-esetén-írhat-is-nekünk-infoheszihu">Kérdés esetén írhat is nekünk: <a href="mailto:info@heszi.hu?subject=[Jogosítvány]">info@heszi.hu</a></h4>
+:ET
