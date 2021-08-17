@@ -27,7 +27,8 @@ Hesz István
 Hétfő: 16:00-20:00
 
 Csütörtök: 16:00-20:00
- A járványhelyzetre való tekintettel az ügyfélfogadási idő hétfőn és csütörtökön 15:00- 19:00-ig tart!
+Tisztelt Ügyfeleink!
+2021 augusztus 19.-én az ügyfélfogadás elmarad!
 
 
 ####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
