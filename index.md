@@ -30,16 +30,13 @@ Iskolánkban az elméleti képzést **interneten keresztül is elvégezheti (e-l
 
 ### Ügyfélfogadói irodánk
 
-1214 Budapest Nap utca 4.
+1214 Budapest Nap utca 2- 4.
 
-### Ügyfélfogadás ideje
+### Ügyfélfogadás ideje:
 
+Hétfő: 16:00-20:00 óráig.
 
-#### A járványhelyzetre és a kijárási korlátozásra való tekintettel az ügyfélfogadás hétfőn és csütörtökön 15 órától 19 óráig tart!
-
-Hétfő: 16:00-20:00
-
-Csütörtök: 16:00-20:00
+Csütörtök: 16:00-20:00 óráig.
 
 Tanfolyamra jelentkezés: telefonon, személyesen az ügyfélfogadói irodában és emailben. 
 
