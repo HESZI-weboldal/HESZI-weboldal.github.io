@@ -20,15 +20,15 @@ Hesz István
 
 ### Ügyfélfogadói irodánk
 
-1214. Budapest Nap utca 4.
+1214. Budapest Nap utca 2-4.
 
 ### Ügyfélfogadás ideje
 
-Hétfő: 16:00-20:00
+Hétfő: 16:00-20:00 óráig.
 
-Csütörtök: 16:00-20:00
+Csütörtök: 16:00-20:00 óráig.
 Tisztelt Ügyfeleink!
-2021 augusztus 19.-én az ügyfélfogadás elmarad!
+2021. augusztus 19.-én az ügyfélfogadás elmarad!
 
 
 ####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
