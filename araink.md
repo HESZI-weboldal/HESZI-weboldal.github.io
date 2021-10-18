@@ -15,7 +15,7 @@ published: true
 | B        | 45 000 Ft               | 210000 Ft / 30 óra        |4 600 Ft <br> 11 000 Ft| 270 600 Ft|
 | BE        | 50 000 Ft               | 119 000 Ft / 17 óra        |13 800 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 110 00 Ft| 201 700 Ft|
 | C        | 50 000 Ft               | 225 000 Ft / 30 óra        |13 800 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 00 Ft| 307 700 Ft|
-| CE        | 50 000 Ft               | 127500 Ft / 15 óra        |9 200 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 000 Ft| 2056100 Ft|
+| CE        | 50 000 Ft               | 127500 Ft / 15 óra        |9 200 Ft <br> 4 400 Ft <br> 3 500 Ft <br> 11 000 Ft| 205600 Ft|
 
 ---
 
