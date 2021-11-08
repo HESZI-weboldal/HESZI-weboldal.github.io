@@ -8,7 +8,7 @@ published: true
 
 # Átlagos képzési óraszám
 
-## 2020-as év
+## 2021-Es év
 
 | Kategória |I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 | ----------|------------|--------------|---------------|--------------|
@@ -31,24 +31,24 @@ published: true
 
 # Vizsga sikerességi mutató
 
-## 2020-as év
+## 2021-Es év
 
 | Kategória |I. negyedév | II. negyedév | III. negyedév | IV. negyedév |
 | ----------|------------|--------------|---------------|--------------|
-| A1 - elmélet | -*        | -*           |-*             |-*            |
-| A1 - forgalom | -*     | -*           |-*             |-*            |
-| A1B - elmélet | -*        | -*           |-*             |-*            |
-| A1B - forgalom | -*     | -*           |-*             |-*            |
-| A- elmélet | -*        | -*           |-*             |83,33%           |
-| A - forgalom | -*     | -*           |-*             |-*            |
-| B- elmélet | -*        | -*           |66,67%            |82,35%            |
-| B - forgalom | -*     | -*           |73,08%             |69,23%            |
-| BE - elmélet | -*        | -*           |-*             |-*            |
-| BE - forgalom | -*     | -*           |-*             |-*            |
-| C - elmélet | -*        | -*           |-*             |-*            |
-| C - forgalom | -*     | -*           |-*             |-*            |
-| CE - elmélet | -*        | -*           |-*             |-*            |
-| CE - forgalom | -*     | -*           |-*             |-*            |
+| A1 - elmélet | -*         -*            |-*             |-*            |
+| A1 - forgalom | -*        -*            |-*             |-*            |
+| A1B - elmélet | -*                      |-*             |-*            |
+| A1B - forgalom | -*     | -*            |-*             |-*            |
+| A- elmélet | -*         | -*            |-*             |  -        
+| A - forgalom | -*       | -*            |-*             |-*            |
+| B- elmélet | -*         | 45,83%        60%             | -         
+| B - forgalom | -*       | 65%           61,29%                         |
+| BE - elmélet | -*        -*             |-*             |-*            |
+| BE - forgalom | -*      | -*            |-*             |-*            |
+| C - elmélet | -*        | -*            |-*             |-*            |
+| C - forgalom | -*       | -*            |-*             |-*            |
+| CE - elmélet | -*        -*             |-*             |-*            |
+| CE - forgalom | -*      | -*            |-*             |-*            |
 
 *Nem mérhető az adat mert a mintaelemszám túl alacsony vagy még nincs rendelkezésre álló adat.
 
