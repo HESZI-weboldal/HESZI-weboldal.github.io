@@ -1,6 +1,6 @@
 ---
 title: HESZI Autósiskola
-subtitle: +36 30 315 9608 <br> +36 20 372 3337
+subtitle: <br> +36 20 372 3337
 language: hu
 description: Évtizedes tapasztalat kezdő sofőrök képzésében
 published: true
@@ -42,7 +42,6 @@ Tanfolyamra jelentkezés: telefonon, személyesen az ügyfélfogadói irodában 
 
 ### Elérhetőségeink
 
-Szinkulics Krisztina +36 30 315 9608
 
 Hesz István +36 20 372 3337
 
