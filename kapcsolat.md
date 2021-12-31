@@ -6,11 +6,6 @@ description: Elérhetőségeink
 published: true
 ---
 
-### Iskolavezető, oktató
-
-Szinkulics Krisztina
-
-06 30 315 9608
 
 ### Elméleti, gyakorlati oktató
 
