@@ -23,7 +23,9 @@ Hétfő: 16:00-20:00 óráig.
 
 Csütörtök: 16:00-20:00 óráig.
 Tisztelt Ügyfeleink!
-2021.december 23-tól - 2022.január 10-ig  az ügyfélfogadás szünetel!
+
+2022.02.07-n és 2022.02.14-n az ügyfélfogadás technikai okok miatt 10:00- 14:00-ig lesz megtartva.
+
 A járványhelyzetre való tekintettel 2021.november 4-től maszk használata kötelező a vizsgákon és az ügyfélfogadási idő alatt is!
 
 ####  Kérdés esetén írhat is nekünk: [info@heszi.hu](mailto:info@heszi.hu?subject=[Jogosítvány])
