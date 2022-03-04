@@ -11,16 +11,16 @@ published: true
   <tr>
     <th>Kategória</th>
     <th>Elmélet tandíj</th>
-    <th>Elméleti&nbsp;&nbsp;&nbsp;vizsgadíj</th>
-    <th>Kezdő részlet&nbsp;&nbsp;&nbsp;(1. részlet)</th>
-    <th>BÜ vizsga</th>
-    <th>JK vagy rutin&nbsp;&nbsp;&nbsp;vizsga</th>
+    <th>Elméleti   vizsgadíj</th>
+    <th>Kezdő részlet   (1. részlet)</th>
+    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BÜ&nbsp;&nbsp;vizsga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>JK vagy rutin   vizsga</th>
     <th>Forgalmi vizsga</th>
-    <th>Vezetési&nbsp;&nbsp;&nbsp;gyakorlat óraszám</th>
-    <th>Vezetési&nbsp;&nbsp;&nbsp;gyakorlat Ft/óra</th>
-    <th>Gyakorlat tandíj&nbsp;&nbsp;&nbsp;összesen</th>
+    <th>Vezetési   gyakorlat óraszám</th>
+    <th>Vezetési   gyakorlat Ft/óra</th>
+    <th>Gyakorlat tandíj   összesen</th>
     <th>2. részlet</th>
-    <th>Teljes tandíj és&nbsp;&nbsp;&nbsp;vizsgadíj</th>
+    <th>Teljes tandíj és   vizsgadíj</th>
   </tr>
 </thead>
 <tbody>
@@ -41,13 +41,13 @@ published: true
   <tr>
     <td>A1 125cm3, max 11kw</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>17</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>    119 000 Ft </td>
     <td>   134 700 Ft </td>
     <td>      179 300 Ft </td>
@@ -55,13 +55,13 @@ published: true
   <tr>
     <td>A1 érvényes "B" jogosítvány</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
     <td> </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      11 000 Ft </td>
     <td>3</td>
-    <td>    &nbsp;&nbsp;&nbsp;15 000 Ft </td>
+    <td>       15 000 Ft </td>
     <td>      45 000 Ft </td>
     <td>     56 000 Ft </td>
     <td>      100 600 Ft </td>
@@ -69,13 +69,13 @@ published: true
   <tr>
     <td>A2 max 35kw</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>17</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>    119 000 Ft </td>
     <td>   134 700 Ft </td>
     <td>      179 300 Ft </td>
@@ -84,12 +84,12 @@ published: true
     <td>A2  A1-el 2 éven belül</td>
     <td> </td>
     <td> </td>
-    <td>                  &nbsp;&nbsp;&nbsp;-   Ft </td>
+    <td>                     -   Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>13</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>      91 000 Ft </td>
     <td>   106 700 Ft </td>
     <td>      106 700 Ft </td>
@@ -97,13 +97,13 @@ published: true
   <tr>
     <td>A2  A1-el 2 éven túl</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>9</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>      63 000 Ft </td>
     <td>     78 700 Ft </td>
     <td>      123 300 Ft </td>
@@ -111,13 +111,13 @@ published: true
   <tr>
     <td>A minden mkp</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>27</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>    189 000 Ft </td>
     <td>   204 700 Ft </td>
     <td>      249 300 Ft </td>
@@ -126,12 +126,12 @@ published: true
     <td>A  A1-el 2 éven belül</td>
     <td> </td>
     <td> </td>
-    <td>                  &nbsp;&nbsp;&nbsp;-   Ft </td>
+    <td>                     -   Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>17</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>    119 000 Ft </td>
     <td>   134 700 Ft </td>
     <td>      134 700 Ft </td>
@@ -139,27 +139,27 @@ published: true
   <tr>
     <td>A  A1-el 2 éven túl</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>11</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>      77 000 Ft </td>
     <td>     92 700 Ft </td>
     <td>      137 300 Ft </td>
   </tr>
   <tr>
-    <td>A  A2-vel 2 éven&nbsp;&nbsp;&nbsp;belül</td>
+    <td>A  A2-vel 2 éven   belül</td>
     <td> </td>
     <td> </td>
-    <td>                  &nbsp;&nbsp;&nbsp;-   Ft </td>
+    <td>                     -   Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>13</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>      91 000 Ft </td>
     <td>   106 700 Ft </td>
     <td>      106 700 Ft </td>
@@ -167,13 +167,13 @@ published: true
   <tr>
     <td>A  A2-vel 2 éven túl</td>
     <td>          40 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           44 600 Ft </td>
     <td> </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 700 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>          4 700 Ft </td>
+    <td>      11 000 Ft </td>
     <td>9</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>      63 000 Ft </td>
     <td>     78 700 Ft </td>
     <td>      123 300 Ft </td>
@@ -181,13 +181,13 @@ published: true
   <tr>
     <td>B személygépkocsi</td>
     <td>          45 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           49 600 Ft </td>
     <td> </td>
     <td> </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      11 000 Ft </td>
     <td>30</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 000 Ft </td>
+    <td>         7 000 Ft </td>
     <td>    210 000 Ft </td>
     <td>   221 000 Ft </td>
     <td>      270 600 Ft </td>
@@ -195,27 +195,27 @@ published: true
   <tr>
     <td>B személygépkocsi hétvége</td>
     <td>          45 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           49 600 Ft </td>
     <td> </td>
     <td> </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      11 000 Ft </td>
     <td>30</td>
-    <td>    &nbsp;&nbsp;&nbsp;10 000 Ft </td>
+    <td>       10 000 Ft </td>
     <td>    300 000 Ft </td>
     <td>   311 000 Ft </td>
     <td>      360 600 Ft </td>
   </tr>
   <tr>
-    <td>B személygépkocsi&nbsp;&nbsp;&nbsp;átvett</td>
+    <td>B személygépkocsi   átvett</td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
     <td> </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      11 000 Ft </td>
     <td>30</td>
-    <td>      &nbsp;&nbsp;&nbsp;8 000 Ft </td>
+    <td>         8 000 Ft </td>
     <td>    240 000 Ft </td>
     <td>   251 000 Ft </td>
     <td>      251 000 Ft </td>
@@ -223,13 +223,13 @@ published: true
   <tr>
     <td>BE szgk.+nehézpót</td>
     <td>          50 000 Ft </td>
-    <td>  &nbsp;&nbsp;&nbsp;13 800 Ft </td>
+    <td>     13 800 Ft </td>
     <td>           63 800 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;3 500 Ft </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 400 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      3 500 Ft </td>
+    <td>          4 400 Ft </td>
+    <td>      11 000 Ft </td>
     <td>17</td>
-    <td>      &nbsp;&nbsp;&nbsp;7 500 Ft </td>
+    <td>         7 500 Ft </td>
     <td>    127 500 Ft </td>
     <td>   146 400 Ft </td>
     <td>      210 200 Ft </td>
@@ -237,27 +237,27 @@ published: true
   <tr>
     <td>C tehergépkocsi</td>
     <td>          50 000 Ft </td>
-    <td>  &nbsp;&nbsp;&nbsp;13 800 Ft </td>
+    <td>     13 800 Ft </td>
     <td>           63 800 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;3 500 Ft </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 400 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      3 500 Ft </td>
+    <td>          4 400 Ft </td>
+    <td>      11 000 Ft </td>
     <td>30</td>
-    <td>      &nbsp;&nbsp;&nbsp;8 500 Ft </td>
+    <td>         8 500 Ft </td>
     <td>    255 000 Ft </td>
     <td>   273 900 Ft </td>
     <td>      337 700 Ft </td>
   </tr>
   <tr>
-    <td>CE tgk.+&nbsp;&nbsp;&nbsp;nehézpót</td>
+    <td>CE tgk.+   nehézpót</td>
     <td>          50 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;9 200 Ft </td>
+    <td>       9 200 Ft </td>
     <td>           59 200 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;3 500 Ft </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 400 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;11 000 Ft </td>
+    <td>      3 500 Ft </td>
+    <td>          4 400 Ft </td>
+    <td>      11 000 Ft </td>
     <td>15</td>
-    <td>    &nbsp;&nbsp;&nbsp;10 500 Ft </td>
+    <td>       10 500 Ft </td>
     <td>    157 500 Ft </td>
     <td>   176 400 Ft </td>
     <td>      235 600 Ft </td>
@@ -265,13 +265,13 @@ published: true
   <tr>
     <td>D autóbusz</td>
     <td>          50 000 Ft </td>
-    <td>    &nbsp;&nbsp;&nbsp;4 600 Ft </td>
+    <td>       4 600 Ft </td>
     <td>           54 600 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;3 500 Ft </td>
-    <td>       &nbsp;&nbsp;&nbsp;4 400 Ft </td>
-    <td>   &nbsp;&nbsp;&nbsp;18 500 Ft </td>
+    <td>      3 500 Ft </td>
+    <td>          4 400 Ft </td>
+    <td>      18 500 Ft </td>
     <td>30</td>
-    <td>      &nbsp;&nbsp;&nbsp;9 000 Ft </td>
+    <td>         9 000 Ft </td>
     <td>    270 000 Ft </td>
     <td>   296 400 Ft </td>
     <td>      351 000 Ft </td>
